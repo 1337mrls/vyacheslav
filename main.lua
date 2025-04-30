@@ -73,7 +73,6 @@ local settingsTable = {
 	General = {
 		-- if needs be in order just make getSetting(name)
 		rayfieldOpen = {Type = 'bind', Value = 'K', Name = 'vyacheslav bind'},
-})
 		-- buildwarnings
 		-- rayfieldprompts
 
