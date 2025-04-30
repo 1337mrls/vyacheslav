@@ -73,12 +73,6 @@ local settingsTable = {
 	General = {
 		-- if needs be in order just make getSetting(name)
 		rayfieldOpen = {Type = 'bind', Value = 'K', Name = 'vyacheslav bind'},
-		local Button = Tab:CreateButton({
-   		Name = "unbind",
-   		Callback = function(value)
-		Rayfield:Destroy()					
-   		-- The function that takes place when the button is pressed
-   		end,
 })
 		-- buildwarnings
 		-- rayfieldprompts
